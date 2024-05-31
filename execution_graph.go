@@ -7,7 +7,7 @@ import (
 )
 
 func setExecutionGraph(w http.ResponseWriter, req *http.Request) {
-	fmt.Fprintf(w, "setExecutionGraph\n")
+	//fmt.Fprintf(w, "setExecutionGraph\n")
 
 	CheckHTTPRequest(w, req)
 
@@ -49,7 +49,7 @@ func setExecutionGraph(w http.ResponseWriter, req *http.Request) {
 }
 
 func deleteExecutionGraph(w http.ResponseWriter, req *http.Request) {
-	fmt.Fprintf(w, "deleteExecutionGraph\n")
+	//fmt.Fprintf(w, "deleteExecutionGraph\n")
 
 	CheckHTTPRequest(w, req)
 

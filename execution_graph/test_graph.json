@@ -1,1 +1,0 @@
-{"graph_id":"test_graph","graph_name":"Test LLM Graph","request_configs":[{"id":"start_node","input_type":[{"data_type":"string","data_type_id":"string","list_status":"unsupported"}],"output_type":[{"data_type":"string","data_type_id":"string","list_status":"unsupported"}],"handler_id":"test_llm"}],"links":[],"constants":[],"start_id":"start_node"}
